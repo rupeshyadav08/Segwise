@@ -1,0 +1,2 @@
+# Swgwise
+Segwise assignment
